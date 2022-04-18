@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://thekitchencommunity.org/wp-content/uploads/2021/09/shutterstock_1010722123-romantic-1200x801.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bradley Hand';
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 46px;
+    word-spacing: 10px;
+}
+
+.nav {
+    font-size: 30px;
+    color: #ffffff;
+    word-spacing: 10px;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(190, 24, 24);
+}
