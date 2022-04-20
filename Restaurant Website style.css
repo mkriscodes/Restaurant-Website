@@ -1,7 +1,7 @@
-body {
+html {
     background-image: url('https://thekitchencommunity.org/wp-content/uploads/2021/09/shutterstock_1010722123-romantic-1200x801.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    min-height: 100%;
     font-family: 'Bradley Hand';
 }
 
